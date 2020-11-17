@@ -1,0 +1,28 @@
+[
+  {
+    "emp-id":1,
+    "emp-name":"sandeep gupta",
+    "designation":"Associate Software Developer",
+    "doj":"02-11-2020",
+    "salary":450000,
+    "emp-type":"Admin"
+    "email-id":"sandeepgupta063@gmail.com",
+    "password":"Sandeep@123",
+    "skills":[
+              "Java",
+              "Angular"]
+  },
+  {
+    "emp-id":2,
+    "emp-name":"piyush singh",
+    "designation":"Associate Software Developer",
+    "doj":"02-11-2020",
+    "salary":450000,
+    "emp-type:"Admin",
+     "email-id":"piyushsingh063@gmail.com",
+    "password":"Piyush@123",
+    "skills":[
+              "Java",
+              "Angular"]
+  },
+  
