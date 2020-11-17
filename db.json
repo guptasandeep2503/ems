@@ -18,11 +18,12 @@
     "designation":"Associate Software Developer",
     "doj":"02-11-2020",
     "salary":450000,
-    "emp-type:"Admin",
+    "emp-type":"Admin",
      "email-id":"piyushsingh063@gmail.com",
     "password":"Piyush@123",
     "skills":[
               "Java",
               "Angular"]
-  },
+  }
+]
   
